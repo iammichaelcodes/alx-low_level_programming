@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -O testing.c
+gcc export $CFILE -o main.c
