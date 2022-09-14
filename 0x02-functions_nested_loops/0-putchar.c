@@ -1,8 +1,15 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 9dddc319a8dde719764b5a0bcf54fb89eea4ef7c
 #include "main.h"
 
 /**
  * main - print putchar
  * Return: always 0
+<<<<<<< HEAD
+
+=======
  */
 
 int main(void)
@@ -20,3 +27,4 @@ int main(void)
 	return (0);
 
 }
+>>>>>>> 9dddc319a8dde719764b5a0bcf54fb89eea4ef7c
