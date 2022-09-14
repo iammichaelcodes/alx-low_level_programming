@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 * _isalpha - print  lowercase or uppercase
+*@c: the int that will be used for the arguement
 *Return: 0
 */
 int _isalpha(int c)
