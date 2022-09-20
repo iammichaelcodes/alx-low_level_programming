@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 9dddc319a8dde719764b5a0bcf54fb89eea4ef7c
 #include "main.h"
 
 /**
@@ -27,4 +23,3 @@ int main(void)
 	return (0);
 
 }
->>>>>>> 9dddc319a8dde719764b5a0bcf54fb89eea4ef7c
